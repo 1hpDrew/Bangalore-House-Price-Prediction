@@ -1,2 +1,3 @@
 # Bangalore-House-Price-Prediction
-for this project data is taken from kaggle.com
+in this project data is taken from www.kaggle.com
+link of data - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
